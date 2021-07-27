@@ -33,4 +33,4 @@ Step 5 : Installation and setup is done:
          Yor are good to go ........................................
 
 Insite 
-![Alt text](relative/"C:\Users\nstej\Downloads\1.jfif"/to/img.jpg?raw=true "Title")
+
