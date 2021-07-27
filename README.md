@@ -33,4 +33,5 @@ Step 5 : Installation and setup is done:
          Yor are good to go ........................................
 
 Insite 
+![1 jpeg](https://user-images.githubusercontent.com/65356981/127193824-f95d791a-b34a-41e8-9c9c-da53e4aaad67.jpg)
 
